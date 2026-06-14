@@ -1,6 +1,5 @@
 # ⚡ CircuitMind — AI Circuit Design Q&A Tutor
 
-> **Project 5** from Prof. Satyajit Chakrabarti's Engineering AI Projects Series
 
 An interactive AI tutoring app where engineering students describe circuit problems and get step-by-step theory, calculations, and design guidance powered by Claude.
 
